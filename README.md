@@ -4,7 +4,7 @@ A Python-based interactive dashboard that combines financial news sentiment anal
 
 ---
 
-## What it does
+## Key Features
 
 - Select any stock (AAPL, TSLA, MSFT, RELIANCE, TCS, etc.)
 - Analyzes recent news headlines using keyword-based NLP sentiment scoring
